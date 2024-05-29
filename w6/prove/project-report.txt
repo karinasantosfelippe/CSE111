@@ -1,0 +1,40 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2024-05-20      .5      Searching ideas for the project and discussing it with my husband
+2024-05-21      1.5     Researching minesweeper game in the internet and answering the proposal text file
+2024-05-22      .5      Discussing my project with a fellow student
+2024-25-23       2      Designing the program interface, creating logic diagram, and creating worflow diagram
+2024-05-27      2.5     Reading the GUI assingment (team activity) to learn about GUI using python (I already use it in other languages)
+2024-05-27       1      Tracking the project to Github remote repository
+2024-05-28       4      Wrote seven program functions structures and the test file structure (just the declaration of the functions)
+2024-05-28       2      Researching unit test of tkinter using pytest and wrote one test function
+2024-05-29       1      Researching how to make constructors unit test (object oriented) using pytest
+2024-05-29      1.5     Adding pystet fixture in the test file, editing the first test function wroted, and wrote two more test functions
+2024-05-29      .5      Researching tkinter.TclError in Powershell Terminal and wroting coments in minesweeper file and test_minesweeper file
+2024-05-29      .5      Creating README file
+=============Example====================
+
+
+
+2. In Canvas, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.

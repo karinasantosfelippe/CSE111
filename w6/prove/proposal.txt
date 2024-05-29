@@ -1,0 +1,52 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+Minesweeper
+
+2. What real-world problem will your program address or help to solve?
+It is a classic puzzle game.
+The game is played on a grid of cells, where each cell can either be empty or contain a hidden mine.
+The player's objective is to uncover all the empty cells on the grid without detonating any mines.
+The player selects a cell to reveal its content. If the revealed cell contains a mine, the game ends immediately, and the player loses. However, if the revealed cell is empty, it will display a number indicating the number of mines in adjacent cells. Using this information, the player must strategically reveal cells to deduce the locations of the mines.
+The game is won when all non-mine cells are revealed.
+
+3. What will you learn from developing this program?
+Learn about GUI using tkinter in Python and improve my programming skills.
+
+4. What Python modules will your program use?
+pytest, random, tkinter, and others (not yet decided)
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. List the names of functions you will need?
+create_gameboard()
+insert_mines()
+count_mines_around()
+show_all_cells()
+and other (still developing)
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. List the names of the test functions you will write.
+test_insert_mines()
+test_count_mines_around()
+and other (still developing)
