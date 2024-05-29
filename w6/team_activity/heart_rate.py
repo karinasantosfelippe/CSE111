@@ -4,7 +4,6 @@ import tkinter as tk
 from tkinter import Frame, Label, Button
 from number_entry import IntEntry
 
-
 def main():
     # Create the Tk root object.
     root = tk.Tk()
@@ -22,7 +21,6 @@ def main():
     # Start the tkinter loop that processes user events
     # such as key presses and mouse button clicks.
     root.mainloop()
-
 
 # The controls in a graphical user interface (GUI) are called widgets,
 # and each widget is an object. Because a GUI has many widgets and
